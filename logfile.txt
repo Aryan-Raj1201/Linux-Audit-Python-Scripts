@@ -1,0 +1,8 @@
+INFO: System started successfully
+WARNING: Low memory detected
+ERROR: Disk not found
+INFO: User login success
+error: Failed login attempt
+ERROR: Network disconnected
+INFO: Backup completed
+error: Unexpected shutdown
